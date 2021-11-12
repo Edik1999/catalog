@@ -5,6 +5,7 @@ import Listing from './components/Listing';
 function App() {
 
   const data = jsonData;
+  const data2 = '';
 
   return (
     <div className="App">
